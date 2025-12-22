@@ -1,0 +1,5 @@
+print('===== TESTE =====')
+nome = input('Qual seu nome? ')
+idade = input('Qual sua idade? ')
+estado = input('Qual seu estado? ')
+print('Meu nome é' , nome, 'tenho' ,idade, 'anos e moro no' ,estado, '.' )

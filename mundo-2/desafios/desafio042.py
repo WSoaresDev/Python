@@ -1,4 +1,5 @@
-'''Programa que lê o comprimento de três segmentos de reta e informa se eles podem ou não formar um triângulo. Em caso positivo, informa também o tipo de triângulo formado: equilátero, isósceles ou escaleno.'''
+'''Programa que lê o comprimento de três segmentos de reta e informa se eles podem ou não formar um triângulo.
+Em caso positivo, informa também o tipo de triângulo formado: equilátero, isósceles ou escaleno.'''
 
 n1 = float(input('Primeiro segmento: '))
 n2 = float(input('Segundo segmento: '))

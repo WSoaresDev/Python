@@ -1,3 +1,9 @@
+'''Programa que lê o ano de nascimento de um jovem e informa, de acordo com sua idade:
+- Se ele ainda vai se alistar ao serviço militar.
+- Se é a hora de se alistar.
+- Se já passou do tempo de alistamento.
+Também informa o tempo que falta ou que passou do prazo de alistamento.'''
+
 from datetime import date
 atual = date.today().year
 nasc = int(input('Ano de nascimento: '))

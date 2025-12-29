@@ -1,3 +1,5 @@
+'''Programa que lê dois números e mostra uma mensagem indicando qual é o maior, ou se são iguais.'''
+
 n1 = int(input('Digite o PRIMEIRO número: '))
 n2 = int(input('Digite o SEGUNDO número: '))
 igual = n1 == n2
